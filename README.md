@@ -1,3 +1,3 @@
 # hello-world
 
-テスト編集
+This is hello-world's sample edit.
